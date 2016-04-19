@@ -1,5 +1,9 @@
 # Verkefni7
+Viðskiptavinurinn er maður sem vill eiga síðu þar sem hann lætur nýjustu fréttir um Overwatch
 
+Markhópur vefsins eru fólk sem hafa áhuga á blizzard og tölvuleikjum þeirra
+
+<b>Innihald vefsins:</b>
 
  Við ætlum að fókusa á vefsíðuna og gera hana um Overwatch, 
  
@@ -12,4 +16,5 @@
  Efst uppi verða tabs, sem verður þá Home, og svo drop down menu fyrir 'About',
  
  í drop down menuinu verður möguleiki að fá upplýsingar um Leikin, characterana í leiknum og fyrirtækið (Blizzard)
+ 
  
