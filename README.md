@@ -3,7 +3,7 @@ Viðskiptavinurinn er maður sem vill eiga síðu þar sem hann lætur nýjustu 
 
 Markhópur vefsins eru fólk sem hafa áhuga á blizzard og tölvuleikjum þeirra
 
-<b>Innihald vefsins:</b>
+<b>Innihald og lýsing vefsins:</b>
 
  Við ætlum að fókusa á vefsíðuna og gera hana um Overwatch, 
  
