@@ -1,5 +1,5 @@
 # Verkefni7
-Viðskiptavinurinn er maður sem vill eiga síðu þar sem hann lætur nýjustu fréttir um Overwatch
+Viðskiptavinurinn er maður sem vill eiga síðu þar sem hann lætur nýjustu fréttir um Overwatch, 
 
 Markhópur vefsins eru fólk sem hafa áhuga á blizzard og tölvuleikjum þeirra
 
