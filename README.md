@@ -21,6 +21,6 @@ Markhópur vefsins eru fólk sem hafa áhuga á blizzard og tölvuleikjum þeirr
  
  
  
-Prototype af aðalsíðuni getur verið fundið hérna:  www.tsuts.tskoli.is/2t/0405994799/verkefni7
+Prototype af aðalsíðuni getur verið fundið hérna:  http://tsuts.tskoli.is/2t/0405994799/verkefni7
 
 Prototype síðan verður breytt og gert miklu snyrtilegri en hugmyndinn verður eins og hún er núna
