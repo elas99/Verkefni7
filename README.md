@@ -17,4 +17,8 @@ Markhópur vefsins eru fólk sem hafa áhuga á blizzard og tölvuleikjum þeirr
  
  í drop down menuinu verður möguleiki að fá upplýsingar um Leikin, characterana í leiknum og fyrirtækið (Blizzard)
  
+ Svo verður gert þetta þannig að Mobile users geta notað það líka
  
+ 
+ 
+Prototype af aðalsíðuni getur verið fundið hérna: 
