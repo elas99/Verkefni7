@@ -22,3 +22,5 @@ Markhópur vefsins eru fólk sem hafa áhuga á blizzard og tölvuleikjum þeirr
  
  
 Prototype af aðalsíðuni getur verið fundið hérna: 
+
+Prototype síðan verður breytt og gert miklu snyrtilegri en hugmyndinn verður eins og hún er núna
