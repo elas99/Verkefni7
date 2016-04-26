@@ -13,9 +13,11 @@ Markhópur vefsins eru fólk sem hafa áhuga á blizzard og tölvuleikjum þeirr
  
  hægra megin verður útlit fyrir sign up til að fá fréttir um leikin,
  
- Efst uppi verða tabs, sem verður þá Home, og svo drop down menu fyrir 'About',
+ Efst uppi verða tabs, sem verður þá Home, og svo verða tvær aðrar síður sem heita 'Overwatch' og 'Blizzard,
  
- í drop down menuinu verður möguleiki að fá upplýsingar um Leikin, characterana í leiknum og fyrirtækið (Blizzard)
+Undir fyrsta tabinu 'Overwatch' verða upplýsingar um alla Heroes í leiknum og myndir.
+
+Undir blizzard verður upplýsingar um blizzard og leikina sem þeir hafa gert
  
  Svo verður gert þetta þannig að Mobile users geta notað það líka
  
